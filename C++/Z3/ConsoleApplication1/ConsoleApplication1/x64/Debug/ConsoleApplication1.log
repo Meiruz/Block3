@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\pavel\Desktop\Block3\C++\Z3\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(45,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\pavel\Desktop\Block3\C++\Z3\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(179,9): warning C4101: k: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> C:\Users\pavel\Desktop\Block3\C++\Z3\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

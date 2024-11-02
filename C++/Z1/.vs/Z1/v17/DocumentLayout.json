@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pavel\\Desktop\\Block3\\C\u002B\u002B\\Z1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83BD7E06-3FB4-43C2-98A1-41EE1AD95DDE}|Z1\\Z1.vcxproj|C:\\Users\\pavel\\Desktop\\Block3\\C\u002B\u002B\\Z1\\Z1\\Z1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83BD7E06-3FB4-43C2-98A1-41EE1AD95DDE}|Z1\\Z1.vcxproj|solutionrelative:Z1\\Z1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F4C608-B2B3-4EE8-9D2C-2EA234B27F2F}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\pavel\\Desktop\\Block3\\C\u002B\u002B\\Z1\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4F4C608-B2B3-4EE8-9D2C-2EA234B27F2F}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Z1.cpp",
+              "DocumentMoniker": "C:\\Users\\pavel\\Desktop\\Block3\\C\u002B\u002B\\Z1\\Z1\\Z1.cpp",
+              "RelativeDocumentMoniker": "Z1\\Z1.cpp",
+              "ToolTip": "C:\\Users\\pavel\\Desktop\\Block3\\C\u002B\u002B\\Z1\\Z1\\Z1.cpp",
+              "RelativeToolTip": "Z1\\Z1.cpp",
+              "ViewState": "AQIAAMwAAAAAAAAAAAAAAN4AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T07:22:47.223Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\pavel\\Desktop\\Block3\\C\u002B\u002B\\Z1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\pavel\\Desktop\\Block3\\C\u002B\u002B\\Z1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T07:22:30.541Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

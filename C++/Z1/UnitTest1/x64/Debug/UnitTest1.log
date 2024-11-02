@@ -1,0 +1,6 @@
+﻿  UnitTest1.cpp
+C:\Users\pavel\Desktop\Block3\C++\Z1\Z1\Z1.cpp(48,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\pavel\Desktop\Block3\C++\Z1\Z1\Z1.cpp(192,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\pavel\Desktop\Block3\C++\Z1\Z1\Z1.cpp(195,38): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+     Создается библиотека C:\Users\pavel\Desktop\Block3\C++\Z1\x64\Debug\UnitTest1.lib и объект C:\Users\pavel\Desktop\Block3\C++\Z1\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\pavel\Desktop\Block3\C++\Z1\x64\Debug\UnitTest1.dll
